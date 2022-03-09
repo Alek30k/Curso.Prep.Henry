@@ -1,0 +1,29 @@
+
+
+conceptos:
+
+
+    * Variables: Las variables son como contenedores de algo, puede ser un texto, números, etc.
+    Son como cajas donde guardamos una información para ocuparlas después! 
+
+
+	* Strings: Un String es una cadena de caracteres, ya sea letras o números 
+    y siempre van entre comillas simple o dobles.
+
+
+	* Funciones (argumentos, `return`) : Las funciones encierran un conjunto de variables,
+     es decir son una linea de códigos que devuelven un valor o no, y nos sirve para hacer el código más corto.
+    Y sus parámetros o argumentos son variables que modifican su comportamiento.
+     return nos devuelve algo y detiene la función.
+
+
+	* Declaraciones `if`: la sentencia o declación 'if' nos sirve para tomar decisiones, significa 'Si'
+ es decir si algo es true (verdadero) nos devuelve el código siguiente.
+
+	* Valores booleanos (`true`, `false`):  Son un tipo de dato primitivo, true(verdadero), false(falso).
+
+
+
+	
+	
+	
