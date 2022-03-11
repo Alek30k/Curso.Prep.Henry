@@ -1,0 +1,20 @@
+
+
+conceptos:
+
+* `for`
+
+            Es un bucle, es decir sirve para repitir algo un determinado 
+            número de veces que le decimos en "la condición".
+
+
+* `&&`, `||`, `!`
+
+
+            '&&' Es un operador lógico. "Y" (AND). Solo devolverá true (verdadero) si ambas expresiones son true (verdaderas) de lo contrario devolverá false.
+
+
+            '||' En este operador solo devolverá false si ambas son false,en todos los demás caso devolverá true.
+
+
+            '!' Este operador es NOT es decir NO, siempre devolverá el valor contrario al que está. Si es true lo hace false; si está false lo convierte en true.
