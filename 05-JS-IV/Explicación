@@ -1,0 +1,18 @@
+
+conceptos
+
+Objetos: Los objetos pueden tener mucha información de algo, es un conjunto de propiedades, es decir de caracteristicas y sus comportamientos.
+
+Propiedades: Son las caracteristicas de nuestro objeto. una asociación entre el nombre( tambien llamado 'clave') y valor.
+
+Métodos: Mientras que métodos sería la acción de nuestro objeto.
+
+Bucle for…in: Nos sirve para recorrer un objeto pasando por cada una de sus propiedades
+
+Notación de puntos vs notación de corchetes: son formas de acceder a las propiedades ya sea con corchetes o con un punto.
+
+notacion de corchetes (Bracket notation) es el 
+nombreDelObjeto['nombreDeLaPropiedad']
+
+notación de puntos (Dot notation) es el 
+nombreDelObjeto.nombreDeLaPropiedad
