@@ -1,0 +1,11 @@
+conceptos
+
+
+prototype: 
+
+            Todos los ojetos de Javascript tienen a una referencia a otro objeto, es decir heredan o derivan de otro.
+
+
+Constructors (de Clases)
+
+        Su nombres es bastante descriptivo, construye! Se encarga de construir algo, en este caso es inicializar una clase.
