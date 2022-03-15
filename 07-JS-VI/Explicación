@@ -1,0 +1,9 @@
+conceptos 
+
+
+Funciones Callback
+
+                        En javascritp las funciones son objetos de primera clase;
+                         es decir podemos trabajar con ellos de la misma forma que trabajos con otros objetos.
+                         La función Callback es la que es pasada como argumento a otra función para que sea "llamada de nuevo".
+                         
