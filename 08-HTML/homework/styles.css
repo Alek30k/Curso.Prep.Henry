@@ -5,7 +5,7 @@
  }
  
  .flex-container div {
-     width: 200px;
+     width: 400px;
  }
  
  #thirdDiv {
@@ -18,9 +18,8 @@
  }
  
  #spanId {
-     background: yellow;
-     font-size: 18px;
-     margin: 50px;
+     font-size: 20px;
+     color: rgb(182, 236, 32)
  }
  
  .divClass {
