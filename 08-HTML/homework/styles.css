@@ -33,6 +33,8 @@
  
  h1 {
      color: navajowhite;
+     position: relative;
+     left: 100px;
  }
  
  img {
