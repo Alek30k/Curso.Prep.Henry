@@ -10,12 +10,13 @@ function deObjetoAmatriz(objeto) {
         C: 3
       }) ➞ [["D", 1], ["B", 2], ["C", 3]]*/
     //Escribe tu código aquí
-    var newMatriz = [];
-    for (var x in objeto) {
-        newMatriz.push([x, objeto[x]])
+    // var newMatriz = [];
+    // for (var x in objeto) {
+    //     newMatriz.push([x, objeto[x]])
 
-    }
-    return newMatriz
+    // }
+    // return newMatriz
+    return Object.entries(objeto);
 }
 
 function numberOfCharacters(string) {
